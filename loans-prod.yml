@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to EazyBank a related loans Productions APIs "
+  message: "Welcome to EazyBank a related loans Prod APIs "
   contactDetails:
     name: "Gautham - QA"
     email: "gautham@eazybank.com"
