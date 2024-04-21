@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank a related cards Production APIs "
+  message: "Welcome to EazyBank a related cards Prod APIs "
   contactDetails:
     name: "Gautham - QA"
     email: "gautham@eazybank.com"
